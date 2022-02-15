@@ -12,7 +12,6 @@ A simple api using express.js
 ## Diagram
 
 ![Alt text](./diagram.svg)
-<img src="./diagram.svg">
 
 ## Components
 
