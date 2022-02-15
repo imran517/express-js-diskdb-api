@@ -15,26 +15,26 @@ A simple api using express.js
 
 ## Components
 
-* config (config.js)
+* **config (config.js)**
 
   - configuration file
-* server (server.js)
+* **server (server.js)**
 
   - creates server and listens on a port 3000
   - defines routes and accepts requests (routes.js)
-* controller
+* **controller**
 
   - handles requests
-* service (service.js)
+* **service (service.js)**
 
   - handles business logic
-* model
+* **model**
 
   - data
-* dbContext (dbContext.js)
+* **dbContext (dbContext.js)**
 
   - handles db connection
-* database (tasks.json)
+* **database (tasks.json)**
 
   - task database file in json format
 
@@ -43,7 +43,7 @@ A simple api using express.js
 Run the following command from the root directory:
 
 ```
-node server.js
+node .\server.js
 ```
 
 ## Tests
