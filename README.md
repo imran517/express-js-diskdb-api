@@ -22,6 +22,7 @@ A simple api using express.js
 * server
 
   - creates server and listens on a port 3000
+  - defines routes and accepts requests
 * controller
 
   - handles requests
