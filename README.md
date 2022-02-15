@@ -16,26 +16,26 @@ A simple api using express.js
 
 ## Components
 
-* config
+* config (config.js)
 
   - configuration file
-* server
+* server (server.js)
 
   - creates server and listens on a port 3000
-  - defines routes and accepts requests
+  - defines routes and accepts requests (routes.js)
 * controller
 
   - handles requests
-* service
+* service (service.js)
 
   - handles business logic
 * model
 
   - data
-* dbContext
+* dbContext (dbContext.js)
 
   - handles db connection
-* tasks.json
+* database (tasks.json)
 
   - task database file in json format
 
