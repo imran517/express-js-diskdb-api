@@ -1,0 +1,20 @@
+{
+  "name": "express-js-diskdb-api",
+  "version": "1.0.0",
+  "description": "express-js-diskdb-api",
+  "main": "server.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/imran517/express-js-diskdb-api.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "nodemonConfig": { "ignore": [ "data/*" ] },
+  "author": "Imran",
+  "license": "MIT",
+  "dependencies": {
+    "diskdb": "^0.1.17",
+    "express": "^4.17.2"
+  }
+}
