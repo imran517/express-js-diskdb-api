@@ -1,6 +1,6 @@
 # express-js-diskdb-api
 
-A simple api using express.js
+A simple api using express.js and diskdb
 
 ## Requirements
 
